@@ -9,12 +9,4 @@ public class FunctionalArray {
             set.insert(i);
         }
     }
-
-    void set(int index, int value){
-        //Ran out of time - insert standard recursive set function
-    }
-
-    void get(int index) {
-        //Ran out of time - insert standard recursive get function
-    }
 }
